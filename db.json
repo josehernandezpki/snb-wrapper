@@ -1,4 +1,5 @@
 {
+  "data":[
   "data":
 [
      {"id": "valerida",
@@ -95,7 +96,7 @@
       "mrkHROrgid": 1026,
       "mrkHROrgname": "MRL/IT - Integration Delivery"
     }
-],
+]],
    "paging": {
         "total": 100
     }
